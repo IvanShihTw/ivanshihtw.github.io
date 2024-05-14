@@ -16,8 +16,8 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "about me", file: "index.md"}
-  - {title: "publications" file: "publications.md"}
+  - {title: "About", file: "index.md"}
+  - {title: "Publications" file: "publications.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:ivanshih@umich.edu"}
