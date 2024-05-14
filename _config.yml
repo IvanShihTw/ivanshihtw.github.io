@@ -1,6 +1,6 @@
 title: "H.C. Ivan Shih"
 author: "Ivan Shih"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+description: "Welcome!"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -16,13 +16,13 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+  - {title: "about me", file: "index.md"}
+  - {title: "publications" file: "publications.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:ivanshih@umich.edu"}
   - {title: Linkedin, icon: linkedin-in, url: "https://www.linkedin.com/in/hsin-cheng-shih/"}
-  - {title: GoogleScholar, icon: google-scholar, url: "https://www.linkedin.com/in/hsin-cheng-shih/"}
+  - {title: GoogleScholar, icon: user-graduate, url: "https://scholar.google.com.tw/citations?user=00cIJo8AAAAJ&hl=zh-TW"}
   # - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
