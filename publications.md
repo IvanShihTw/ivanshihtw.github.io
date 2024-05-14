@@ -14,9 +14,9 @@ Chuang, P.Y., **Shih, H.C.**, & Hsu, Y.T. <ins>Exploring Residence-related and M
 
 ## Peer-reviewd Journal Articles
 
- `2024` **Shih, H.C.**, Hsu, Y.T., & Lai, Y.C. (2024). <ins>Modeling Non-Compensatory Strategies on Path Choices in a Complex Urban Rail Transit Network Considering Characteristics of Transfer Passengers and Trips</ins>. *Travel Behaviour and Society*, 35, 100733.[https://doi.org/10.1016/j.tbs.2023.100733](https://doi.org/10.1016/j.tbs.2023.100733).
+ `2024` **Shih, H.C.**, Hsu, Y.T., & Lai, Y.C. (2024). <ins>Modeling Non-Compensatory Strategies on Path Choices in a Complex Urban Rail Transit Network Considering Characteristics of Transfer Passengers and Trips</ins>. *Travel Behaviour and Society*, 35, 100733. [https://doi.org/10.1016/j.tbs.2023.100733](https://doi.org/10.1016/j.tbs.2023.100733).
 
- `2022` **Shih, H.C.**, Yeh, C.H., & Lai, Y.C. (2022). <ins>Optimization of Multi-Period Rail Procurement Plan</ins>. *Transportation Research Record*, 2676(4), 324-333.[https://doi.org/10.1177/03611981211058676](https://doi.org/10.1177/03611981211058676).
+ `2022` **Shih, H.C.**, Yeh, C.H., & Lai, Y.C. (2022). <ins>Optimization of Multi-Period Rail Procurement Plan</ins>. *Transportation Research Record*, 2676(4), 324-333. [https://doi.org/10.1177/03611981211058676](https://doi.org/10.1177/03611981211058676).
 
 
 
