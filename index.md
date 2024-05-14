@@ -3,7 +3,7 @@ layout: page
 title: "About"
 ---
 
-<div style="margin-right: 10%;">
+<div style="margin-left: 10%;">
     <img align="right" width="210" height="210" src="/images/IvanShih_headshot.png" style="vertical-align:middle">
 </div>
 
