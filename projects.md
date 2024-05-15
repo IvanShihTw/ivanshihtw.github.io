@@ -5,6 +5,9 @@ title: "Research"
 
 To be updated...
 
+## Non-Compensatory Choice Strategy
+Develop CMNL path choice model 
+
 <!-- <article>
 <nav>
   <ul>
