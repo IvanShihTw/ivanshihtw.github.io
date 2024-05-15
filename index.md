@@ -24,6 +24,6 @@ title: "About"
 
 [NTUCE](https://www.ce.ntu.edu.tw)
 
-[YTLab@NTU]()
+[YTLab@NTU](https://ytlabntu.github.io)
 
 [RTRC@NTU](https://www.ce.ntu.edu.tw/railway/English/english.htm)
