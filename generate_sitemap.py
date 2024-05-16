@@ -8,7 +8,7 @@ def generate_sitemap(directory):
         for file in files:
             if file.endswith('.html'):
                 file_path = os.path.relpath(os.path.join(root, file), directory)
-                url = 'https://yourusername.github.io/repositoryname/' + file_path
+                url = 'https://IvanShihTw.github.io/ivanshihtw.github.io/' + file_path
                 sitemap += f'  <url>\n    <loc>{url}</loc>\n  </url>\n'
 
     sitemap += '</urlset>\n'
