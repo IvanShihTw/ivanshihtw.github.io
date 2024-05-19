@@ -4,7 +4,7 @@ title: "Projects"
 ---
 
 ## YT Lab's GitHub Pages
-Construct Lab's webpage based on Jekyll Themem [rt2lab](https://github.com/rt2lab/rt2lab.github.io)
+Construct Lab's webpage based on Jekyll Theme [rt2lab](https://github.com/rt2lab/rt2lab.github.io)
 
 ## Non-Compensatory Choice Strategy
 Develop CMNL path choice model 
