@@ -16,7 +16,7 @@ title: "About"
 </div>
 
 <div>
-    <p>View my CV [here](https://drive.google.com/file/d/1f2a6233Y8IITJ1pN_CWv4XyNiC1P9Cz9/view?usp=share_link)</p>
+    View my CV [here](https://drive.google.com/file/d/1f2a6233Y8IITJ1pN_CWv4XyNiC1P9Cz9/view?usp=share_link)
 </div>
 
 
