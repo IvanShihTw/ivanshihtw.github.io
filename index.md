@@ -16,14 +16,14 @@ title: "About"
 </div>
 
 
-## Affliation
+## Affiliations
 
 [InfrAll@UMich](https://infrall.engin.umich.edu)
 
 [UMich CEE](https://cee.engin.umich.edu)
 
-[NTUCE](https://www.ce.ntu.edu.tw)
-
 [YTLab@NTU](https://ytlabntu.github.io)
 
 [RTRC@NTU](https://www.ce.ntu.edu.tw/railway/English/english.htm)
+
+[NTUCE](https://www.ce.ntu.edu.tw)
