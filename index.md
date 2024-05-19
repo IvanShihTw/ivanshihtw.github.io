@@ -15,6 +15,10 @@ title: "About"
     <p>My research interest lies in the analysis of traveler behavior with advanced econometrics models, air transportation management, railway capacity, and urban mobility.</p>
 </div>
 
+<div>
+    <p>View my CV [here](https://drive.google.com/file/d/1f2a6233Y8IITJ1pN_CWv4XyNiC1P9Cz9/view?usp=share_link)</p>
+</div>
+
 
 ## Affiliations
 
