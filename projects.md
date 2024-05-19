@@ -4,7 +4,10 @@ title: "Projects"
 ---
 
 ## YT Lab's GitHub Pages
-Construct Lab's webpage based on Jekyll Theme [rt2lab](https://github.com/rt2lab/rt2lab.github.io)
+Construct and design the [Lab's webpage](https://ytlabntu.github.io) based on Jekyll Theme [rt2lab](https://github.com/rt2lab/rt2lab.github.io)
+Several functions added:
+A new gallery page with a slideshow randomly displays photos
+Reactive photo display on the team page
 
 ## Non-Compensatory Choice Strategy
 Develop CMNL path choice model 
