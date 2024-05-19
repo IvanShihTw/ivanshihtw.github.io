@@ -22,7 +22,7 @@ Chuang, P.Y., **Shih, H.C.**, & Hsu, Y.T. <ins>Exploring Residence-related and M
 
 ## Book Chapters
 
-Hsu, Y.T., **Shih, H.C.**, & Wijaya, K.C. (2024). <ins>PT COVID-19 Responses in Taiwan: Taipei and Kaohsiung</ins>. in Shibayama, T., and Emberger, G. (Ed.), *International Perspectives on Public Transport Responses to Covid-19*, by WCTRS SIG G2, Elsevier.
+`2024` Hsu, Y.T., **Shih, H.C.**, & Wijaya, K.C. (2024). <ins>PT COVID-19 Responses in Taiwan: Taipei and Kaohsiung</ins>. in Shibayama, T., and Emberger, G. (Ed.), *International Perspectives on Public Transport Responses to Covid-19*, by WCTRS SIG G2, Elsevier.
 
 
 
