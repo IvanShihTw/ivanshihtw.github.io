@@ -28,7 +28,7 @@ Chuang, P.Y., **Shih, H.C.**, & Hsu, Y.T. <ins>Exploring Residence-related and M
 
 ## Refereed Conference Publications
 
-  `2024` Chuang, P.Y., **Shih, H.C.**, & Hsu, Y.T. <ins>Exploring Residence-related and Mobility-related Choices among the Young Generation: in the Era of High Housing and Rental Prices</ins>. *17th International Conference on Travel Behaviour Research*, Vienna, Austria, 2024.
+  `2024` Chuang, P.Y., Hsu, Y.T., & **Shih, H.C.** <ins>Exploring Residence-related and Mobility-related Choices among the Young Generation: in the Era of High Housing and Rental Prices</ins>. *17th International Conference on Travel Behaviour Research*, Vienna, Austria, 2024.
 
   `2023` Yu, K.J., Chu, H.J., Yu, P.Y., **Shih, H.C.**, & Hsu, Y.T. <ins>Research on Interactions between Transportation and Region Development- A Case Study of Taoyuan Region</ins>. *16th World Conference on Transport Research*, Montréal, Canada, 2023.
 
