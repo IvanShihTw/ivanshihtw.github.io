@@ -3,15 +3,6 @@ layout: page
 title: "Publications"
 ---
 
-
-## Work in Progress
-
-Hsueh, H.Y., **Shih, H.C.**, & Hsu, Y.T. <ins>Estimation of Carrying Capacity: Perspectives of Network Capacity and Traffic Management</ins>.
-
-Chuang, P.Y., **Shih, H.C.**, & Hsu, Y.T. <ins>Exploring Residence-related and Mobility-related Choices among the Young Generation: in the Era of High Housing and Rental Prices</ins>.
-
-
-
 ## Journal Articles
 
  `2024` **Shih, H.C.**, Hsu, Y.T., & Lai, Y.C. (2024). <ins>Modeling Non-Compensatory Strategies on Path Choices in a Complex Urban Rail Transit Network Considering Characteristics of Transfer Passengers and Trips</ins>. *Travel Behaviour and Society*, 35, 100733. [https://doi.org/10.1016/j.tbs.2023.100733](https://doi.org/10.1016/j.tbs.2023.100733).
