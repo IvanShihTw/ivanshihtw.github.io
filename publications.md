@@ -13,7 +13,7 @@ title: "Publications"
 
 ## Book Chapters
 
-`2024` Hsu, Y. T., Wijaya, K. C., & **Shih, H. C.** (2024). COVID-19 public transport responses in Taipei and Kaohsiung. In International Perspectives on Public Transport Responses to COVID-19 (pp. 177-189). Elsevier.
+`2024` Hsu, Y. T., Wijaya, K. C., & **Shih, H. C.** (2024). COVID-19 public transport responses in Taipei and Kaohsiung. In *International Perspectives on Public Transport Responses to COVID-19* (pp. 177-189). Elsevier.
 
 
 
