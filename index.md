@@ -23,7 +23,7 @@ View my CV [here](https://drive.google.com/file/d/1f2a6233Y8IITJ1pN_CWv4XyNiC1P9
 
 
 ## Affiliations
-<img align="left" width="210" height="210" src="/images/UMCEE.svg" style="vertical-align:middle;margin: 8px 25px">
+<img align="left" width="210" height="210" src="/images/UMCEE.svg" style="vertical-align:middle;margin: 22px 25px">
 <img align="middle" width="210" height="210" src="/images/NTUCE.jpg" style="vertical-align:middle;margin: 8px 25px">
 
 [InfrAll@U-M](https://infrall.engin.umich.edu)
