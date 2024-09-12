@@ -12,7 +12,7 @@ title: "About"
 </div>
 
 <div>
-    <p>My research interest lies in the analysis of traveler behavior with advanced econometrics models, air transportation management, railway capacity, and urban mobility.</p>
+    <p>My research interest lies in the analysis of traveler behavior with advanced econometrics models, transportation and land use planning, urban mobility, and railway capacity.</p>
 </div>
 
 
@@ -24,9 +24,9 @@ View my CV [here](https://drive.google.com/file/d/1f2a6233Y8IITJ1pN_CWv4XyNiC1P9
 
 ## Affiliations
 
-[InfrAll@UMich](https://infrall.engin.umich.edu)
+[InfrAll@UM](https://infrall.engin.umich.edu)
 
-[UMich CEE](https://cee.engin.umich.edu)
+[UM CEE](https://cee.engin.umich.edu)
 
 [YTLab@NTU](https://ytlabntu.github.io)
 
