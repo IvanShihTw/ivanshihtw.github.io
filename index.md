@@ -4,7 +4,7 @@ title: "About"
 ---
 
 
-<img align="right" width="210" height="210" src="/images/IvanShih_headshot.png" style="vertical-align:middle;margin: 8px 25px">
+<img align="right" width="210" height="210" src="/images/headshot_ivanshih.jpg" style="vertical-align:middle;margin: 8px 25px">
 
 
 <div style="margin-bottom: 20px">
