@@ -16,7 +16,7 @@ title: "About"
 </div>
 
 
-View my CV [here](https://drive.google.com/file/d/1f2a6233Y8IITJ1pN_CWv4XyNiC1P9Cz9/view?usp=share_link).
+View my CV <a href="https://drive.google.com/file/d/1f2a6233Y8IITJ1pN_CWv4XyNiC1P9Cz9/view?usp=share_link" target="_blank">here</a>.
 
 
 
@@ -26,12 +26,12 @@ View my CV [here](https://drive.google.com/file/d/1f2a6233Y8IITJ1pN_CWv4XyNiC1P9
 <img align="left" width="210" height="210" src="/images/UMCEE.svg" style="vertical-align:middle;margin: 22px 25px">
 <img align="middle" width="210" height="210" src="/images/NTUCE.png" style="vertical-align:middle;margin: 0px 25px">
 
-[InfrAll@U-M](https://infrall.engin.umich.edu)
+[InfrAll@U-M](https://infrall.engin.umich.edu){:target="_blank"}
 
-[U-M CEE](https://cee.engin.umich.edu)
+[U-M CEE](https://cee.engin.umich.edu){:target="_blank"}
 
-[YTLab@NTU](https://ytlabntu.github.io)
+[YTLab@NTU](https://ytlabntu.github.io){:target="_blank"}
 
-[RTRC@NTU](https://www.ce.ntu.edu.tw/railway/English/english.htm)
+[RTRC@NTU](https://www.ce.ntu.edu.tw/railway/English/english.htm){:target="_blank"}
 
-[NTUCE](https://www.ce.ntu.edu.tw)
+[NTUCE](https://www.ce.ntu.edu.tw){:target="_blank"}
