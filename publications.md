@@ -5,7 +5,7 @@ title: "Publications"
 
 ## Journal Articles
 
- `2025` **Shih, H.C.**, Wijaya, K. C., Hseuh, H.Y., & Hsu, Y.T. (2024). Away from Over-populated Development: Estimating Urban Carrying Capacity with an Integrated Perspective of Transportation and Urban Planning *Transport Policy* (accepted).
+ `2025` **Shih, H.C.**, Wijaya, K. C., Hseuh, H.Y., & Hsu, Y.T. (2024). Away from Over-populated Development: Estimating Urban Carrying Capacity with an Integrated Perspective of Transportation and Urban Planning. *Transport Policy*. (accepted)
 
  `2024` **Shih, H.C.**, Hsu, Y.T., & Lai, Y.C. (2024). Modeling Non-Compensatory Strategies on Path Choices in a Complex Urban Rail Transit Network Considering Characteristics of Transfer Passengers and Trips. *Travel Behaviour and Society*, 35, 100733. [https://doi.org/10.1016/j.tbs.2023.100733](https://doi.org/10.1016/j.tbs.2023.100733).
 
