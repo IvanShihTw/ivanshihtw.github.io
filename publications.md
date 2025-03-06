@@ -19,7 +19,7 @@ title: "Publications"
 
 ## Refereed Conference Publications
 
-1. Fong, A.Z., Shih, I., Shaw, A., Lee, S., & Grengs, J. Strategies to Improve Travel Survey Representativeness: U.S.-based Investigation of Weights and Convenience Sampling. *13th International Conference on Transport Survey Methods*, Da Nang, Vietnam, 2025.
+1. Fong, A.Z., **Shih, I.**, Shaw, A., Lee, S., & Grengs, J. Strategies to Improve Travel Survey Representativeness: U.S.-based Investigation of Weights and Convenience Sampling. *13th International Conference on Transport Survey Methods*, Da Nang, Vietnam, 2025.
 
 2. Chuang, P.Y., Hsu, Y.T., & **Shih, H.C.** Exploring Residence-related and Mobility-related Choices among the Young Generation: in the Era of High Housing and Rental Prices. *17th International Conference on Travel Behaviour Research*, Vienna, Austria, 2024.
 
