@@ -11,8 +11,4 @@
   {% endfor %}
   {% endfor %}
 
-  <!-- Custom "S" Icon -->
-  <symbol id="s" viewBox="0 0 100 100">
-    <text x="10" y="70" font-size="80" font-family="Arial, sans-serif">S</text>
-  </symbol>
-</svg>
+
