@@ -24,7 +24,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:ivanshih@umich.edu"}
   - {title: Linkedin, icon: linkedin-in, url: "https://www.linkedin.com/in/hsin-cheng-shih/"}
   - {title: GoogleScholar, icon: user-graduate, url: "https://scholar.google.com.tw/citations?user=00cIJo8AAAAJ&hl=zh-TW"}
-  - {title: Scoups, icon: <i class="fa-solid fa-s fa-xl"></i>, url: "https://www.scopus.com/authid/detail.uri?authorId=57613506000"}
+  - {title: Scoups, icon: s, url: "https://www.scopus.com/authid/detail.uri?authorId=57613506000"}
   # - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
