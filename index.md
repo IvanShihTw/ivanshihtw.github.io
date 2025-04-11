@@ -23,7 +23,7 @@ View my CV <a href="https://drive.google.com/file/d/1f2a6233Y8IITJ1pN_CWv4XyNiC1
 
 
 ## Affiliations
-<img align="left" width="300" height="210" src="/images/Infrall-logo.png" style="vertical-align:middle;margin: 22px 25px">
+<img align="left" width="300" height="210" src="/images/Infrall-logo.png" style="vertical-align:middle;margin: 22px 25px; border-radius:0">
 <img align="left" width="210" height="210" src="/images/UMCEE.svg" style="vertical-align:middle;margin: 22px 25px">
 <img align="middle" width="210" height="210" src="/images/NTUCE.png" style="vertical-align:middle;margin: 0px 25px">
 
