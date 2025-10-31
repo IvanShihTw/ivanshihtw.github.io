@@ -8,11 +8,11 @@ title: "About"
 
 
 <div style="margin-bottom: 20px">
-    <p>Hi there! My name is Hsin-Cheng Ivan Shih. I am a PhD student of Next Generation Transportation Systems (NGTS) in the Department of Civil and Environmental Engineering at the University of Michigan, Ann Arbor. I was a research associate at National Taiwan University, where I also earned my BS in civil engineering and MS in transportation engineering.</p>
+    <p>Hi there! My name is Hsin-Cheng Ivan Shih. I am a PhD student in the Next Generation Transportation Systems (NGTS) program in the Department of Civil and Environmental Engineering at the University of Michigan, Ann Arbor. I was a research associate at National Taiwan University, where I also earned my BS in civil engineering and MS in transportation engineering.</p>
 </div>
 
 <div>
-    <p>My research interest lies in the analysis of traveler behavior with advanced econometrics models, transportation and land use planning, urban mobility, and railway capacity.</p>
+    <p>My research interest lies in the analysis of traveler behavior, survey design, transportation and land use planning, urban mobility.</p>
 </div>
 
 
