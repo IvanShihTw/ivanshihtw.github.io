@@ -3,6 +3,10 @@ layout: page
 title: "Publications"
 ---
 
+## Paper in progress
+
+1. **Shih, H.C.I.** & Shaw, F.A. Low-carbon transport pathways: Latent segments based on current and intended powertrain, environmental attitudes, and mode use. (under review)
+
 ## Journal Articles
 
 1. **Shih, H.C.I.**, Wijaya, K. C., Hseuh, H.Y., & Hsu, Y.T. (2025). Away from Over-populated Development: Estimating Urban Carrying Capacity with an Integrated Perspective of Transportation and Urban Planning. *Transport Policy*, *162*, 283-295. [https://doi.org/10.1016/j.tranpol.2024.12.010](https://doi.org/10.1016/j.tranpol.2024.12.010)
