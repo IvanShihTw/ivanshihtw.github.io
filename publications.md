@@ -3,9 +3,9 @@ layout: page
 title: "Publications"
 ---
 
-## Paper in progress
+## Papers Under Review
 
-1. **Shih, H.C.I.** & Shaw, F.A. Low-carbon transport pathways: Latent segments based on current and intended powertrain, environmental attitudes, and mode use. (under review)
+1. **Shih, H.C.I.** & Shaw, F.A. Low-carbon transport pathways: latent segments by powertrain, attitudes, and public/active transport use. (Submitted to *Transportation Research Part D*)
 
 ## Journal Articles
 
@@ -23,18 +23,13 @@ title: "Publications"
 
 ## Refereed Conference Publications
 
-1. **Shih H.C.I.**, & Hsu, Y.T. How Do Passengers Make Their Route Choice in a Complex Rail Transit Network? Capturing Non-Compensatory Behavior with a Constrained Multinomial Logit Model. *Transportation Research Board 105th Annual Meeting*, Washington, DC, 2026.
-2. Li, P., Liu, T., **Shih H.C.I.**, Yan, Y., Chen, C., Masoud, N., & Yin, Y. D3PM-Act: A Discrete Denoising Diffusion Model for Activity Synthesis. *Transportation Research Board 105th Annual Meeting*, Washington, DC, 2026.
-3. Fong, A.Z., **Shih, I.**, Shaw, A., Lee, S., & Grengs, J. Strategies to Improve Travel Survey Representativeness: U.S.-based Investigation of Weights and Convenience Sampling. *13th International Conference on Transport Survey Methods*, Da Nang, Vietnam, 2025.
-
-4. Chuang, P.Y., Hsu, Y.T., & **Shih, H.C.** Exploring Residence-related and Mobility-related Choices among the Young Generation: in the Era of High Housing and Rental Prices. *17th International Conference on Travel Behaviour Research*, Vienna, Austria, 2024.
-
-5. Yu, K.J., Chu, H.J., Yu, P.Y., **Shih, H.C.**, & Hsu, Y.T. Research on Interactions between Transportation and Region Development- A Case Study of Taoyuan Region. *16th World Conference on Transport Research*, Montréal, Canada, 2023.
-
-6. **Shih, H.C.**, Hsu, Y.T., & Lai, Y.C. Study of Passengers’ Non-Compensatory Path Choice Behavior Considering Characteristics of Transfer Trips in a Complex Metro Network. *Transportation Research Board 102nd Annual Meeting*, Washington, DC, 2023.
-
-7. Huang, Y.W., Wu, W.Y., Dai, P.C., Yang, C.T., Chen, P.A., Hsu, Y.T., & **Shih, H.C.** Infrastructure Optimization to Enhance Fire Emergency Response from the Perspective of Urban Network Analysis. *Transportation Research Board 102nd Annual Meeting*, Washington, DC, 2023.
-
-8. **Shih, H.C.**, Yeh, C.H., & Lai, Y.C. Optimization of Multi-Period Rail Procurement Plan. *Transportation Research Board 100th Annual Meeting*, Washington, DC, 2021.
-
-9. Wu M.J., **Shih, H.C.**, & Lai, Y.C. Decision Support Model for Rolling Stock Assignment and Predictive Maintenance Scheduling. *12th World Congress on Railway Research*, Tokyo, Japan, 2019.
+1. **Shih H.C.I.**, & Shaw, F.A. Green Intentions, Divergent Actions: Understanding Pro-Environment Travelers’ Low-Carbon Transport Choices. *International Conference on Transportation and Development*, Detroit, MI, 2026. (Podium Session)
+2. **Shih H.C.I.**, & Hsu, Y.T. How Do Passengers Make Their Route Choice in a Complex Rail Transit Network? Capturing Non-Compensatory Behavior with a Constrained Multinomial Logit Model. *Transportation Research Board 105th Annual Meeting*, Washington, DC, 2026.
+3. Li, P., Liu, T., **Shih H.C.I.**, Yan, Y., Chen, C., Masoud, N., & Yin, Y. D3PM-Act: A Discrete Denoising Diffusion Model for Activity Synthesis. *Transportation Research Board 105th Annual Meeting*, Washington, DC, 2026.
+4. Fong, A.Z., **Shih, I.**, Shaw, A., Lee, S., & Grengs, J. Strategies to Improve Travel Survey Representativeness: U.S.-based Investigation of Weights and Convenience Sampling. *13th International Conference on Transport Survey Methods*, Da Nang, Vietnam, 2025.
+5. Chuang, P.Y., Hsu, Y.T., & **Shih, H.C.** Exploring Residence-related and Mobility-related Choices among the Young Generation: in the Era of High Housing and Rental Prices. *17th International Conference on Travel Behaviour Research*, Vienna, Austria, 2024.
+6. Yu, K.J., Chu, H.J., Yu, P.Y., **Shih, H.C.**, & Hsu, Y.T. Research on Interactions between Transportation and Region Development- A Case Study of Taoyuan Region. *16th World Conference on Transport Research*, Montréal, Canada, 2023.
+7. **Shih, H.C.**, Hsu, Y.T., & Lai, Y.C. Study of Passengers’ Non-Compensatory Path Choice Behavior Considering Characteristics of Transfer Trips in a Complex Metro Network. *Transportation Research Board 102nd Annual Meeting*, Washington, DC, 2023.
+8. Huang, Y.W., Wu, W.Y., Dai, P.C., Yang, C.T., Chen, P.A., Hsu, Y.T., & **Shih, H.C.** Infrastructure Optimization to Enhance Fire Emergency Response from the Perspective of Urban Network Analysis. *Transportation Research Board 102nd Annual Meeting*, Washington, DC, 2023.
+9. **Shih, H.C.**, Yeh, C.H., & Lai, Y.C. Optimization of Multi-Period Rail Procurement Plan. *Transportation Research Board 100th Annual Meeting*, Washington, DC, 2021.
+10. Wu M.J., **Shih, H.C.**, & Lai, Y.C. Decision Support Model for Rolling Stock Assignment and Predictive Maintenance Scheduling. *12th World Congress on Railway Research*, Tokyo, Japan, 2019.
